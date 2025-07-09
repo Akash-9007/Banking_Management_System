@@ -43,9 +43,14 @@ Working on this project helped me:
 - Understand database schema design and constraint management
 - Practice building secure systems with proper validation and error handling
 
-##📄 License
-This project is released under the MIT License.
+## 📄 License
+
+This project is released under the **MIT License**.  
 You’re free to use, modify, and share it with proper attribution.
 
-##🙌 Final Thoughts
+---
+
+## 🙌 Final Thoughts
+
 Building this Banking Management System gave me hands-on experience with backend development, security practices, and database connectivity. I look forward to expanding it further with a GUI and more advanced features.
+
